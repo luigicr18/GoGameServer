@@ -1,1 +1,1 @@
-# GoGame
+# GoGame Server
